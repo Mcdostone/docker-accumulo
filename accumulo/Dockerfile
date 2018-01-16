@@ -1,4 +1,4 @@
-FROM mcdostone/hadoop:latest
+FROM mcdostone/hadoop
 LABEL version="1.0"
 LABEL maintainer="Mcdostone"
 

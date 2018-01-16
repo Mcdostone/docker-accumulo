@@ -7,6 +7,6 @@ See more details in the [Dockerfile](https://github.com/Mcdostone/dockerfiles/bl
 ## Quick start
 
 ```bash
-docker run -p 50070:50070 mcdostone/hadoop:latest
+docker run -p 50070:50070 mcdostone/hadoop
 ```
 
