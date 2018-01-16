@@ -1,6 +1,6 @@
 # Docker image for Apache Accumulo
 
-An docker image with accumulo to play with !
+Try this docker image of 1.02GB with accumulo to play with !
 See more details in the [Dockerfile](https://github.com/Mcdostone/dockerfiles/blob/master/accumulo/Dockerfile).
 
 ## Quick start
